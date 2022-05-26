@@ -5,13 +5,18 @@
 @import "components/status-bar.css";
 @import "components/nav-bar.css";
 @import "components/screen-header.css";
+@import "components/alt-screen-header.css";
 @import "components/user-component.css";
 @import "components/dadge.css";
+@import "components/icon-row.css";
 
 /* Screens */
 @import "screens/login.css";
 @import "screens/friends.css";
 @import "screens/find.css";
+@import "screens/more.css";
+@import "screens/settings.css";
+
 /* import를 해줘야 사용할 수 있다. 꼭 중요!! */
 
 body{
